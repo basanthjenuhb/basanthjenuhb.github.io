@@ -19,4 +19,5 @@ author:
   email:             markdotto@gmail.com
 
 # Custom vars
+excerpt_separator: <!--more-->
 version:             1.0.0
