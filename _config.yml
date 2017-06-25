@@ -14,10 +14,11 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Basanth Jenu H B
+  url:               https://github.com/basanthjenuhb
+  email:             basanthjenuhb@gmail.com
 
 # Custom vars
+icon_address: https://www.google.co.in/imgres?imgurl=http%3A%2F%2Frespondr.io%2Fwp-content%2Fuploads%2F2016%2F03%2Fmachine_learning-1024x724.jpg&imgrefurl=http%3A%2F%2Frespondr.io%2F7-ways-machine-learning-is-already-affecting-your-world%2F&docid=FnngACGPBmvQnM&tbnid=TIXKLTrRgOc9nM%3A&vet=10ahUKEwjKhfLrytnUAhVJRY8KHRERClEQMwh2KAEwAQ..i&w=1024&h=724&bih=678&biw=1301&q=machine%20learning&ved=0ahUKEwjKhfLrytnUAhVJRY8KHRERClEQMwh2KAEwAQ&iact=mrc&uact=8
 excerpt_separator: <!--more-->
 version:             1.0.0
