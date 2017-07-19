@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Probability - 1. Introduction
 
