@@ -8,7 +8,7 @@ Before diving right in, I recommend you to go through the <a href="https://proje
 
 I would like to start by telling you that **Probability** deals with the measure of uncertainty. So, all we will be doing here is quantifying uncertainty. Now, before I give you a definition of probability, I should tell you what a **Sample space** and an **Event** is.
 
-> **Sample Space** - It is a set of all possible outcomes of an experiment. Here we will denote by "S".
+> **Sample Space** - It is a set of all possible outcomes of an experiment. Here we will denote it by "S".
 
 > **Event** - An event is a subset of a sample space.
 
