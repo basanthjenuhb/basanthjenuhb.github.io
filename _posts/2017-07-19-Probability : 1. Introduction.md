@@ -3,18 +3,17 @@ Welcome to my first post on Probability. This is a series of posts giving you a 
 
 Before diving right in, I recommend you to go through the <a href="https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf" target="_blank">Math review</a>.
 
-You might be wondering.
-I would like to start by telling you that **Probability** deals with the measure of uncertainty. So, all we will be doing here is quantifying uncertainty. You will also move from saying things like "Most probably I will get a promotion this year" to "There is an 80% probability that I will be promoted this year". I hope you get the idea. Now, before I give you a definition of probability, I should tell you what a **Sample space** and an **Event** is.
+You might be wondering. "Why the hell should I read some stupid post on Probability by some stupid guy ?". And that is legitimate to a certain extent. So, let me explain. **Probability** deals with quantifying uncertainty. It lets you put a percentage of certainty on the things happening in your life. For example, What is the probability that I will get a B+ in the coming math exam, what is the probability that I will win a lottery this time, what is the probability that Ganga will ditch Ramesh to be with me (I am not quite sure if I can quantify that ). And I can give you a 100 more examples, but you get the idea. Probability is used in hundreds of places including Machine Learning, Stock predictions, Genetics. With this, you are qualified enough to understand a **naive** definition of probability. But, before that, I should tell you what a **Sample space** and an **Event** is.
 
 > **Sample Space** - It is a set of all possible outcomes of an experiment. Here we will denote it by "S".
 
 > **Event** - An event is a subset of a sample space.
 
-You can have numerous examples for this. If you experiment is flipping a coin, then the sample space would be **S = { Head, Tail }**. An event here would occurrence of a head or a tail or both. Likewise, if your experiment is rolling a dice, then the sample space would be **S = { 1, 2, 3, 4, 5, 6 }**. An event here would be occurrence of 1 or 2 or 3 ...etc or a combination of those. Now, the **naive** definition of probability is very simple. Consider a sample space **S** and an event **A** we are interested in. The probability **P** of occurrence of an event **A**, written as **P(A)**, is given by:
+You can have numerous examples for this. If you are thinking that with whom will I be with on this Valentine's day, then your sample space would be **S = { Radha, Roopa, Geetha, You will be alone (As always) }**. If your experiment is flipping a coin, then the sample space would be **S = { Head, Tail }**. An event here would occurrence of a head or a tail or both. Likewise, if your experiment is rolling a dice, then the sample space would be **S = { 1, 2, 3, 4, 5, 6 }**. An event here would be occurrence of 1 or 2 or 3 or 4 or 5 or 6 or a combination of those. Now, the **naive** definition of probability is very simple. Consider a sample space **S** and an event **A** we are interested in. The probability **P** of occurrence of an event **A**, written as **P(A)**, is given by:
 
 $$ P(A) = \frac{\#\ Favourable\ outcomes}{\#\ Possible\ outcomes} $$
 
-We will solve a simple problem. Consider rolling a dice. What is the probability that a number less than 4 occurs. Now, the set of all possible outcomes(Sample Space) is **S = { 1, 2, 3, 4, 5, 6 }** and the set of favourable outcomes is **A = { 1, 2, 3 }**. So,
+We will solve a simple problem. Consider rolling a dice. What is the probability that a number less than 4 occurs. The set of all possible outcomes(Sample Space) is **S = { 1, 2, 3, 4, 5, 6 }** and the set of favourable outcomes is **A = { 1, 2, 3 }**. 
 
 $$ P(A) = \frac{\#\ Favourable\ outcomes}{\#\ Possible\ outcomes} = \frac{|\ A\ |}{|\ S\ |} = \frac{3}{6} = \frac{1}{2}  $$
 
