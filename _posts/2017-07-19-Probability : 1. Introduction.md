@@ -4,7 +4,7 @@ published: true
 Welcome to my first post on Probability. This is a series of posts giving you a glimpse of an undergraduate course on Probability and statistics. These posts are are an overview of <a href="https://projects.iq.harvard.edu/stat110" target="_blank">Statistics 110: Probability</a> by Harvard.
 <!--more-->
 
-Before diving right in, I recommend you to go through the <a href="https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf" target="_blank">Math review.</a>.
+Before diving right in, I recommend you to go through the <a href="https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf" target="_blank">Math review</a>.
 
 I would like to start by telling you that **Probability** deals with the measure of uncertainty. So, all we will be doing here is quantifying uncertainty. Now, before I give you a definition of probability, I should tell you what a **Sample space** and an **Event** is.
 
