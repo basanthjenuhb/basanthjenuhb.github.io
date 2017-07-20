@@ -20,8 +20,6 @@ We will solve a simple problem. Consider rolling a dice. What is the probability
 
 $$ P(A) = \frac{\#\ Favourable\ outcomes}{\#\ Possible\ outcomes} = \frac{|\ A\ |}{|\ S\ |} = \frac{3}{6} = \frac{1}{2}  $$
 
-\\( ax^2 + \sqrt{bx} + c = 0 \\)
-
 Now, I call this definition of probability **naive** because it fails at many places:
 1. It assumes that all outcomes are equally likely. That is, **P(Head) = P(Tail)**. But, this definition would fail when the coin used in the experiment is biased. i.e the coin for which the probability is not 1/2 is called a biased or unfair coin.
 2. It assumes that the sample space is finite. Now, this definition would fail when the sample space is, say a set of real numbers in \\([-3,\ 3]\\). This set contains infinitely many numbers and we would end up substituting $\infty$ in the denominator.
