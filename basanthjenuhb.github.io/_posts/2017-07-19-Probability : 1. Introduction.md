@@ -3,6 +3,7 @@ Welcome to my first post on Probability. This is a series of posts giving you a 
 
 Before diving right in, I recommend you to go through the <a href="https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf" target="_blank">Math review</a>.
 
+You might be wondering.
 I would like to start by telling you that **Probability** deals with the measure of uncertainty. So, all we will be doing here is quantifying uncertainty. You will also move from saying things like "Most probably I will get a promotion this year" to "There is an 80% probability that I will be promoted this year". I hope you get the idea. Now, before I give you a definition of probability, I should tell you what a **Sample space** and an **Event** is.
 
 > **Sample Space** - It is a set of all possible outcomes of an experiment. Here we will denote it by "S".
