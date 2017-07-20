@@ -87,17 +87,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*
-*****************************
-*/
-
-
-@media (max-width: 623px) {
-    html {
-        font-size: 8px;
-    }
-}
-
-/*
  * Masthead
  *
  * Super small header above the content for site name and short description.
