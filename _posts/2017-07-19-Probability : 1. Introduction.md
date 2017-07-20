@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Welcome to my first post on Probability. This is a series of posts giving you a glimpse of an undergraduate course on Probability and statistics. These posts are are an overview of <a href="https://projects.iq.harvard.edu/stat110" target="_blank">Statistics 110: Probability</a> by Harvard.aa
+Welcome to my first post on Probability. This is a series of posts giving you a glimpse of an undergraduate course on Probability and statistics. These posts are are an overview of <a href="https://projects.iq.harvard.edu/stat110" target="_blank">Statistics 110: Probability</a> by Harvard.
 <!--more-->
 
 Before diving right in, I recommend you to go through the <a href="https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf" target="_blank">Math review.</a>.
