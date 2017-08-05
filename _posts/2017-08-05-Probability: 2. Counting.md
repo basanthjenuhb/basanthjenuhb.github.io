@@ -61,7 +61,7 @@ We can derive this using the above equation. Since order doesn't matter to us, w
 $$\frac{n \times (n-1) \times (n-2) \times (n-3)\ ...\ (n-k+1)}{k!} = \ ^nC_k = \frac{n!}{(n-k)!\times k!}$$
 
 ### **4. With replacement, order matters**
-The total $\#$ of possibilities is $\ ^{n+k-1}C_k$. Please refer to <a href="https://youtu.be/FJd_1H3rZGg?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&t=706" target="_blank">Stat 110 - Lecture 2</a> for the proof.
+The total $#$ of possibilities is $\ ^{n+k-1}C_k$. Please refer to <a href="https://youtu.be/FJd_1H3rZGg?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&t=706" target="_blank">Stat 110 - Lecture 2</a> for the proof.
 
 With this, we can go on and fill the sampling table.
 
