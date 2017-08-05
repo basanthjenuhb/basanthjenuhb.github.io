@@ -37,7 +37,7 @@ Now, we will move on to make something called a **Sampling table**. Consider you
 
 From this bag, you have to choose $k$ balls with some constraints. The different constraints are:
 ### **1. With replacement, Order matters**
-So, you have to fill up $k$ positions using $n$ balls. Since it is with replacement, the same ball can be chosen multiple times. Let us see the different $\#$ possibilities for different positions.
+So, you have to fill up $k$ positions using $n$ balls. Since it is with replacement, the same ball can be chosen multiple times. Let us see the different $#$ possibilities for different positions.
 1. The bag contains $n$ balls to choose from, so we have $n$ possibilities for position 1.
 2. The bag still contains $n$ balls because the previous ball is replaced after choosing. So, again we have $n$ possibilities for position 2.
 And the same goes on till position $k$. So, the total possibilities in the overall experiment are:
@@ -45,12 +45,13 @@ And the same goes on till position $k$. So, the total possibilities in the overa
 $$n \times n \times n \ .....(k\ times) = n^k$$
 
 ### **2. Without replacement, order matters**
-The different $\#$ possibilities for different positions are:
+The different $#$ possibilities for different positions are:
 1. The bag contains $n$ balls to choose from, so we have $n$ possibilities for position 1.
 2. Since the previous ball is not replaced, we have $n-1$ balls to choose from for position 2.
 3. Since none of the previous balls are replaced, we have $n-2$ balls to choose from for position 3.
+
 $k$. In the same way, we have $n-k+1$ balls to choose from for the $k^{\textrm{th}}$ position.
-This goes on till we fill all $k$ positions. So, the total $\#$ possibilities in the overall experiment are:
+This goes on till we fill all $k$ positions. So, the total $#$ possibilities in the overall experiment are:
 
 $$n \times (n-1) \times (n-2) \times (n-3)\ ...\ (n-k+1) = \ ^nP_k = \frac{n!}{(n-k)!}$$
 
