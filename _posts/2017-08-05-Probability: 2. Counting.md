@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Welcome to my second post on probability and today will be all about counting. This post will give you a brief understanding of how to count different possibilities when there are many sub experiments involved in an experiment.
 
