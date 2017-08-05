@@ -28,7 +28,7 @@ This brings us to the **multiplication rule**.
 
 > Consider a compound experiment **$A$** consisting of $r$ sub experiments. Let the sub experiment $A_1$ consist of $n_1$ possibilities, $A_2$ consist of $n_2$ possibilities.... $A_r$ consist of $n_r$ possibilities. Then the total possibilities of overall experiment would be:
 
-> $$n_1 \times n_2 \times n_3 ... n_r$$
+$$n_1 \times n_2 \times n_3 ... n_r$$
 
 Now, we will move on to make something called a **Sampling table**. Consider you have a bag of balls labelled $1,2,3...n $.
 
