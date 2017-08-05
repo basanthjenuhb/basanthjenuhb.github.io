@@ -12,7 +12,8 @@ When it comes to flavors, he can choose between **chocolate**, **vanilla** or **
 1. Choose a cone - 2 possibilities ( **Cake** or **waffle** )
 2.  Choose a flavor - 3 possibilities ( **chocolate**, **vanilla** or **strawberry** )
 
-So, the total number of possibilities to choose an ice-cream would be: 
+So, the total number of possibilities to choose an ice-cream would be:
+
 $$\# sub\ experiment\ 1\  \times \# sub\ experiment\ 2 = 2 \times 3 = 6$$
 
 For every cone you choose, you can choose to have any of the flavors on it. It can also be:
