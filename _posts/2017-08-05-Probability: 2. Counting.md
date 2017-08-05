@@ -12,12 +12,13 @@ When it comes to flavors, he can choose between **chocolate**, **vanilla** or **
 1. Choose a cone - 2 possibilities ( **Cake** or **waffle** )
 2.  Choose a flavor - 3 possibilities ( **chocolate**, **vanilla** or **strawberry** )
 So, the total number of possibilities to choose an ice-cream would be: 
-$$\# Possibilities\ in\ sub\ experiment\ 1\  \times \# Possibilities\ in\ sub\ experiment\ 2 = 2 \times 3 = 6$$For every cone you choose, you can choose to have any of the flavors on it. It can also be:
-$$\# Possibilities\ in\ sub\ experiment\ 2\  \times \# Possibilities\ in\ sub\ experiment\ 1 = 3 \times 2 = 6$$ This is because the owner of the ice-cream shop is not going to force you to choose the waffle or the flavor first.
+$$\# sub\ experiment\ 1\  \times \# sub\ experiment\ 2 = 2 \times 3 = 6$$For every cone you choose, you can choose to have any of the flavors on it. It can also be:
+$$\# sub\ experiment\ 2\  \times \# sub\ experiment\ 1 = 3 \times 2 = 6$$ This is because the owner of the ice-cream shop is not going to force you to choose the waffle or the flavor first.
 
 This brings us to the **multiplication rule**.
 
 > Consider a compound experiment **$A$** consisting of $r$ sub experiments. Let the sub experiment $A_1$ consist of $n_1$ possibilities, $A_2$ consist of $n_2$ possibilities.... $A_r$ consist of $n_r$ possibilities. Then the total possibilities of overall experiment would be:
+
 > $$n_1 \times n_2 \times n_3 ... n_r$$
 
 Now, we will move on to make something called a **Sampling table**. Consider you have a bag of balls labelled $1,2,3...n $.
