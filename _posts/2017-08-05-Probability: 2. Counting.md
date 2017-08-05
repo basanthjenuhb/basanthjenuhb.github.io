@@ -37,7 +37,7 @@ Now, we will move on to make something called a **Sampling table**. Consider you
 
 From this bag, you have to choose $k$ balls with some constraints. The different constraints are:
 ### **1. With replacement, Order matters**
-So, you have to fill up $k$ positions using $n$ balls. Since it is with replacement, the same ball can be chosen multiple times. Let us see the different $\ #$ possibilities for different positions.
+So, you have to fill up $k$ positions using $n$ balls. Since it is with replacement, the same ball can be chosen multiple times. Let us see the different # possibilities for different positions.
 1. The bag contains $n$ balls to choose from, so we have $n$ possibilities for position 1.
 2. The bag still contains $n$ balls because the previous ball is replaced after choosing. So, again we have $n$ possibilities for position 2.
 And the same goes on till position $k$. So, the total possibilities in the overall experiment are:
@@ -45,7 +45,7 @@ And the same goes on till position $k$. So, the total possibilities in the overa
 $$n \times n \times n \ .....(k\ times) = n^k$$
 
 ### **2. Without replacement, order matters**
-The different $#$ possibilities for different positions are:
+The different # possibilities for different positions are:
 1. The bag contains $n$ balls to choose from, so we have $n$ possibilities for position 1.
 2. Since the previous ball is not replaced, we have $n-1$ balls to choose from for position 2.
 3. Since none of the previous balls are replaced, we have $n-2$ balls to choose from for position 3.
@@ -61,7 +61,7 @@ We can derive this using the above equation. Since order doesn't matter to us, w
 $$\frac{n \times (n-1) \times (n-2) \times (n-3)\ ...\ (n-k+1)}{k!} = \ ^nC_k = \frac{n!}{(n-k)!\times k!}$$
 
 ### **4. With replacement, order matters**
-The total $#$ of possibilities is $\ ^{n+k-1}C_k$. Please refer to <a href="https://youtu.be/FJd_1H3rZGg?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&t=706" target="_blank">Stat 110 - Lecture 2</a> for the proof.
+The total # of possibilities is $\ ^{n+k-1}C_k$. Please refer to <a href="https://youtu.be/FJd_1H3rZGg?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&t=706" target="_blank">Stat 110 - Lecture 2</a> for the proof.
 
 With this, we can go on and fill the sampling table.
 
