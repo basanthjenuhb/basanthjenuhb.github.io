@@ -37,7 +37,7 @@ Now, we will move on to make something called a **Sampling table**. Consider you
 
 From this bag, you have to choose $k$ balls with some constraints. The different constraints are:
 ### **1. With replacement, Order matters**
-So, you have to fill up $k$ positions using $n$ balls. Since it is with replacement, the same ball can be chosen multiple times. Let us see the different $#$ possibilities for different positions.
+So, you have to fill up $k$ positions using $n$ balls. Since it is with replacement, the same ball can be chosen multiple times. Let us see the different $\ #$ possibilities for different positions.
 1. The bag contains $n$ balls to choose from, so we have $n$ possibilities for position 1.
 2. The bag still contains $n$ balls because the previous ball is replaced after choosing. So, again we have $n$ possibilities for position 2.
 And the same goes on till position $k$. So, the total possibilities in the overall experiment are:
