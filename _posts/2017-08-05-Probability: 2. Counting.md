@@ -8,8 +8,10 @@ Before diving right in, I recommend you to go through my <a href="https://basant
 
 I'll start by giving you an example. Let's say that Ross is tired after work and wants to have an ice cream. He goes to the ice cream shop and has a lot of options to choose from. When it comes to con, he can choose between a **cake** cone and a **waffle** cone.
 
+<center>
 ![Cone](http://media.gettyimages.com/photos/two-ice-cream-cones-picture-id78907703?s=612x612)
-  
+</center>
+
 When it comes to flavors, he can choose between **chocolate**, **vanilla** or **strawberry**. So, the experiment of choosing ice-cream consists 2 sub-experiments:
 1. Choose a cone - 2 possibilities ( **Cake** or **waffle** )
 2.  Choose a flavor - 3 possibilities ( **chocolate**, **vanilla** or **strawberry** )
