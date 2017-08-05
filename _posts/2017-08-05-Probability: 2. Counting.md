@@ -51,7 +51,7 @@ The different # possibilities for different positions are:
 3. Since none of the previous balls are replaced, we have $n-2$ balls to choose from for position 3.
 
 $k$. In the same way, we have $n-k+1$ balls to choose from for the $k^{\textrm{th}}$ position.
-This goes on till we fill all $k$ positions. So, the total $#$ possibilities in the overall experiment are:
+This goes on till we fill all $k$ positions. So, the total # possibilities in the overall experiment are:
 
 $$n \times (n-1) \times (n-2) \times (n-3)\ ...\ (n-k+1) = \ ^nP_k = \frac{n!}{(n-k)!}$$
 
