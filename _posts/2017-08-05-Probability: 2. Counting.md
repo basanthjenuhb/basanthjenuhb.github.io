@@ -38,6 +38,7 @@ So, you have to fill up $k$ positions using $n$ balls. Since it is with replacem
 1. The bag contains $n$ balls to choose from, so we have $n$ possibilities for position 1.
 2. The bag still contains $n$ balls because the previous ball is replaced after choosing. So, again we have $n$ possibilities for position 2.
 And the same goes on till position $k$. So, the total possibilities in the overall experiment are:
+
 $$n \times n \times n \ .....(k\ times) = n^k$$
 
 ### **2. Without replacement, order matters**
@@ -47,10 +48,12 @@ The different $\#$ possibilities for different positions are:
 3. Since none of the previous balls are replaced, we have $n-2$ balls to choose from for position 3.
 $k$. In the same way, we have $n-k+1$ balls to choose from for the $k^{\textrm{th}}$ position.
 This goes on till we fill all $k$ positions. So, the total $\#$ possibilities in the overall experiment are:
+
 $$n \times (n-1) \times (n-2) \times (n-3)\ ...\ (n-k+1) = \ ^nP_k = \frac{n!}{(n-k)!}$$
 
 ### **3. Without replacement, order doesn't matter**
 We can derive this using the above equation. Since order doesn't matter to us, we just need to divide the above equation by $k!$ since we have overcounted. The equation would be:
+
 $$\frac{n \times (n-1) \times (n-2) \times (n-3)\ ...\ (n-k+1)}{k!} = \ ^nC_k = \frac{n!}{(n-k)!\times k!}$$
 
 ### **4. With replacement, order matters**
