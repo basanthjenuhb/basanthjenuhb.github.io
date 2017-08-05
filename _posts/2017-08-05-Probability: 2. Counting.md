@@ -13,7 +13,8 @@ When it comes to flavors, he can choose between **chocolate**, **vanilla** or **
 2.  Choose a flavor - 3 possibilities ( **chocolate**, **vanilla** or **strawberry** )
 
 So, the total number of possibilities to choose an ice-cream would be: 
-$$\# sub\ experiment\ 1\  \times \# sub\ experiment\ 2 = 2 \times 3 = 6$$For every cone you choose, you can choose to have any of the flavors on it. It can also be:
+$$\# sub\ experiment\ 1\  \times \# sub\ experiment\ 2 = 2 \times 3 = 6$$
+For every cone you choose, you can choose to have any of the flavors on it. It can also be:
 $$\# sub\ experiment\ 2\  \times \# sub\ experiment\ 1 = 3 \times 2 = 6$$ This is because the owner of the ice-cream shop is not going to force you to choose the waffle or the flavor first.
 
 This brings us to the **multiplication rule**.
