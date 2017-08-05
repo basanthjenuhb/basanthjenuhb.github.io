@@ -48,6 +48,7 @@ The different $\#$ possibilities for different positions are:
 $k$. In the same way, we have $n-k+1$ balls to choose from for the $k^{\textrm{th}}$ position.
 This goes on till we fill all $k$ positions. So, the total $\#$ possibilities in the overall experiment are:
 $$n \times (n-1) \times (n-2) \times (n-3)\ ...\ (n-k+1) = \ ^nP_k = \frac{n!}{(n-k)!}$$
+
 ### **3. Without replacement, order doesn't matter**
 We can derive this using the above equation. Since order doesn't matter to us, we just need to divide the above equation by $k!$ since we have overcounted. The equation would be:
 $$\frac{n \times (n-1) \times (n-2) \times (n-3)\ ...\ (n-k+1)}{k!} = \ ^nC_k = \frac{n!}{(n-k)!\times k!}$$
