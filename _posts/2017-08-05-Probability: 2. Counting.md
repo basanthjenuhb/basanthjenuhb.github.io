@@ -11,6 +11,7 @@ I'll start by giving you an example. Let's say that Ross is tired after work and
 When it comes to flavors, he can choose between **chocolate**, **vanilla** or **strawberry**. So, the experiment of choosing ice-cream consists 2 sub-experiments:
 1. Choose a cone - 2 possibilities ( **Cake** or **waffle** )
 2.  Choose a flavor - 3 possibilities ( **chocolate**, **vanilla** or **strawberry** )
+
 So, the total number of possibilities to choose an ice-cream would be: 
 $$\# sub\ experiment\ 1\  \times \# sub\ experiment\ 2 = 2 \times 3 = 6$$For every cone you choose, you can choose to have any of the flavors on it. It can also be:
 $$\# sub\ experiment\ 2\  \times \# sub\ experiment\ 1 = 3 \times 2 = 6$$ This is because the owner of the ice-cream shop is not going to force you to choose the waffle or the flavor first.
