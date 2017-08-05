@@ -48,11 +48,10 @@ $$\frac{n \times (n-1) \times (n-2) \times (n-3)\ ...\ (n-k+1)}{k!} = \ ^nC_k = 
 The total $\#$ of possibilities is $\ ^{n+k-1}C_k$. Please refer to <a href="https://youtu.be/FJd_1H3rZGg?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&t=706" target="_blank">Stat 110 - Lecture 2</a> for the proof.
 
 With this, we can go on and fill the sampling table.
-<center><div>
+
 |      Type/Order     	| Order matters 	| Order doesn't matter 	|
 |:-------------------:	|:-------------:	|:--------------------:	|
 |   With replacement  	|     $n^k$     	|    $\ ^{n+k-1}C_k$   	|
 | Without replacement 	|   $\ ^nP_k$   	|       $\ ^nC_k$      	|
-</div></center>
 
 These lectures are based on [Stat 110](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo). Please feel free to comment in case of any queries or suggestions.
